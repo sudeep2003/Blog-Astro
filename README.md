@@ -41,13 +41,13 @@ Any static assets, like images, can be placed in the `public/` directory.
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/sudeep2003/Nike.git
+   git clone https://github.com/sudeep2003/Blog-Astro.git
    ```
 
 2. Change your directory to the project folder:
 
    ```shell
-   cd ./Nike
+   cd ./Blog-Astro
    ```
 
 3. Install the project dependencies:
